@@ -1,12 +1,12 @@
 ### Hi👋 I'm Muhammad Arslan
 #### I'm Flutter Application Software Developer
-// Add cover page image section
+
 ![I'm Flutter Application Software Developer](https://github.com/marslanflutterdev1/marslanflutterdev1/blob/main/Screenshot%202024-08-19%20204627.png)
-// Add about me section
+
 I’m Muhammad Arslan, a passionate Flutter Developer with over a year of hands-on experience creating stunning and functional apps. Having recently upgraded my skills with a comprehensive enhanced from Tech Idara Karachi, I specialize in Flutter UI, Firebase, API integration, and state management. Let’s connect to turn your app ideas into reality! 🚀
 
 ###
-// Add you expart in skills section
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
   <img width="12" />
@@ -26,7 +26,7 @@ I’m Muhammad Arslan, a passionate Flutter Developer with over a year of hands-
 </div>
 
 ###
-// Addition talking about me section.
+
 - 🌱 I’m currently learning Flutter Development 
 - 👯 I’m looking to collaborate on Google & Microsoft & Apple 
 - 🤔 I’m looking for help with you for Remote & On-Site Flutter Development Job 
@@ -35,7 +35,6 @@ I’m Muhammad Arslan, a passionate Flutter Developer with over a year of hands-
 - ⚡ Fun fact: I'm Industrial Human In Flutter
 
 
-// Connect by social link section
 <div align="left">
   <a href="https://www.linkedin.com/in/marslanflutterdev1/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=marslanflutterdev1&logo=linkedin&label=&color=09191f&logoColor=white&labelColor=09191f&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -48,8 +47,8 @@ I’m Muhammad Arslan, a passionate Flutter Developer with over a year of hands-
   </a>
 </div>
 
-###
-// Add language, courses and technology use can learn, section
+### jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
