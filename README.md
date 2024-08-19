@@ -75,7 +75,6 @@ I’m Muhammad Arslan, a passionate Flutter Developer with over a year of hands-
 
 </br>
 </br>
-</br>
 
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/marslanflutterdev1/contributions?format=svg&private=false)  
