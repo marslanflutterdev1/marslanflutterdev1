@@ -12,7 +12,9 @@ Skills: Dart-Language, Flutter, Firebase, RestAPIs, Bloc, Cubits, Provider-SM
 - 🤔 I’m looking for help with you for Remote & On-Site Flutter Development Job 
 - 💬 Ask me about I'm Flutter Application Software Engineer 
 - 📫 How to reach me: https://www.linkedin.com/in/marslanflutterdev1/ 
-- ⚡ Fun fact: I'm Industrial Human In Flutter 
+- ⚡ Fun fact: I'm Industrial Human In Flutter
+
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/marslanflutterdev1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/marslanflutterdev1//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://gigcfsd.edu.pk/)  
 
 
 
