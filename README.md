@@ -34,7 +34,22 @@ Skills: Dart-Language, Flutter, Firebase, RestAPIs, Bloc, Cubits, Provider-SM
 - 💬 Ask me about I'm Flutter Application Software Engineer 
 - 📫 How to reach me: https://www.linkedin.com/in/marslanflutterdev1/ 
 - ⚡ Fun fact: I'm Industrial Human In Flutter
-- 
+
+- ###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/marslanflutterdev1/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=marslanflutterdev1&logo=linkedin&label=&color=09191f&logoColor=white&labelColor=09191f&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="0328-4123292" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=09191f&logoColor=white&labelColor=09191f&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
+  <a href="marslanflutterdev1@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=09191f&logoColor=white&labelColor=09191f&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
+
+###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
@@ -56,6 +71,23 @@ Skills: Dart-Language, Flutter, Firebase, RestAPIs, Bloc, Cubits, Provider-SM
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
