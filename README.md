@@ -7,11 +7,10 @@ I’m Muhammad Arslan, a passionate Flutter Developer with over a year of hands-
 
 Skills: Dart-Language, Flutter, Firebase, RestAPIs, Bloc, Cubits, Provider-SM
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Flutter Development 
 - 👯 I’m looking to collaborate on Google & Microsoft & Apple 
-- 🤔 I’m looking for help with Remote & On-Site Flutter Job 
-- 💬 Ask me about I'm Flutter Software Engineer 
+- 🤔 I’m looking for help with you for Remote & On-Site Flutter Development Job 
+- 💬 Ask me about I'm Flutter Application Software Engineer 
 - 📫 How to reach me: https://www.linkedin.com/in/marslanflutterdev1/ 
 - ⚡ Fun fact: I'm Industrial Human In Flutter 
 
