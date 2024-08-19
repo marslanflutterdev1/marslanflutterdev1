@@ -1,10 +1,11 @@
 ### Hi👋 I'm Muhammad Arslan
+  </br>
 #### I'm Flutter Application Software Developer
-
+  </br>
 ![I'm Flutter Application Software Developer](https://github.com/marslanflutterdev1/marslanflutterdev1/blob/main/Screenshot%202024-08-19%20204627.png)
-
+  </br>
 I’m Muhammad Arslan, a passionate Flutter Developer with over a year of hands-on experience creating stunning and functional apps. Having recently upgraded my skills with a comprehensive enhanced from Tech Idara Karachi, I specialize in Flutter UI, Firebase, API integration, and state management. Let’s connect to turn your app ideas into reality! 🚀
-
+  </br>
 ###
 
 <div align="left">
@@ -26,7 +27,7 @@ I’m Muhammad Arslan, a passionate Flutter Developer with over a year of hands-
 </div>
 
 ###
-
+  </br>
 - 🌱 I’m currently learning Flutter Development 
 - 👯 I’m looking to collaborate on Google & Microsoft & Apple 
 - 🤔 I’m looking for help with you for Remote & On-Site Flutter Development Job 
@@ -45,6 +46,7 @@ I’m Muhammad Arslan, a passionate Flutter Developer with over a year of hands-
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=09191f&logoColor=white&labelColor=09191f&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
+
   </br>
 
 <div align="left">
@@ -68,6 +70,7 @@ I’m Muhammad Arslan, a passionate Flutter Developer with over a year of hands-
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
+
     </br>
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
