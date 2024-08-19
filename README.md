@@ -35,6 +35,8 @@ I’m Muhammad Arslan, a passionate Flutter Developer with over a year of hands-
 - ⚡ Fun fact: I'm Industrial Human In Flutter
 
 
+
+
 <div align="left">
   <a href="https://www.linkedin.com/in/marslanflutterdev1/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=marslanflutterdev1&logo=linkedin&label=&color=09191f&logoColor=white&labelColor=09191f&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -46,6 +48,9 @@ I’m Muhammad Arslan, a passionate Flutter Developer with over a year of hands-
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=09191f&logoColor=white&labelColor=09191f&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
+
+
+
 
 
 
@@ -71,6 +76,9 @@ I’m Muhammad Arslan, a passionate Flutter Developer with over a year of hands-
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
+
+
+
 
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
